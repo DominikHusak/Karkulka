@@ -8,7 +8,7 @@ namespace Karkulka
 {
     internal class Mapa
     {
-        private string[,] policka = new string[4,4];
+        private string[,] policka = new string[5,5];
         private Karkulka karkulka;
 
         public Mapa(Karkulka karkulka)
@@ -17,15 +17,20 @@ namespace Karkulka
             {
                 for (int j = 0; j < policka.GetLength(1); j++)
                 {
-                    policka[i, j] = "Vyhlidka";
+                    policka[i, j] = "Cesta";
                 }
             }
             policka[0, 0] = "Domov";
-            policka[3, 3] = "Babicka";
+            policka[vratVysku() - 1, vratSirku() - 1] = "Babicka";
             nahodneUmisti("Vlk");
+            nahodneUmisti("Vyhlidka");
             nahodneUmisti("Koren");
-            nahodneUmisti("Louka");
-            nahodneUmisti("Prekazka");
+            nahodneUmisti("Louka"); /*Kvetina*/
+            nahodneUmisti("Haj"); /*Houba*/ 
+            nahodneUmisti("Reka");
+            nahodneUmisti("Bazina");
+            nahodneUmisti("Strmy svah");
+            nahodneUmisti("Krovi");
             this.karkulka = karkulka;   
         }
         private void nahodneUmisti(string misto)
@@ -35,7 +40,7 @@ namespace Karkulka
             {
                 int x = r.Next(4);
                 int y = r.Next(4);
-                if (policka[y, x] == "Vyhlidka")
+                if (policka[y, x] == "Cesta")
                 {
                     policka[y, x] = misto;
                     break;

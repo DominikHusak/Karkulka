@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dominik Husák\\source\\repos\\Karkulka\\Karkulka\\Karkulka.csproj": {}
+    "C:\\Škola\\Karkulka\\Karkulka\\Karkulka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dominik Husák\\source\\repos\\Karkulka\\Karkulka\\Karkulka.csproj": {
+    "C:\\Škola\\Karkulka\\Karkulka\\Karkulka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik Husák\\source\\repos\\Karkulka\\Karkulka\\Karkulka.csproj",
+        "projectUniqueName": "C:\\Škola\\Karkulka\\Karkulka\\Karkulka.csproj",
         "projectName": "Karkulka",
-        "projectPath": "C:\\Users\\Dominik Husák\\source\\repos\\Karkulka\\Karkulka\\Karkulka.csproj",
+        "projectPath": "C:\\Škola\\Karkulka\\Karkulka\\Karkulka.csproj",
         "packagesPath": "C:\\Users\\Dominik Husák\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik Husák\\source\\repos\\Karkulka\\Karkulka\\obj\\",
+        "outputPath": "C:\\Škola\\Karkulka\\Karkulka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik Husák\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,3 +13,18 @@ C:\Users\Dominik Husák\source\repos\Karkulka\Karkulka\obj\Debug\net6.0\refint\K
 C:\Users\Dominik Husák\source\repos\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.pdb
 C:\Users\Dominik Husák\source\repos\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.genruntimeconfig.cache
 C:\Users\Dominik Husák\source\repos\Karkulka\Karkulka\obj\Debug\net6.0\ref\Karkulka.dll
+C:\Škola\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.exe
+C:\Škola\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.deps.json
+C:\Škola\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.runtimeconfig.json
+C:\Škola\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.dll
+C:\Škola\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.pdb
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.csproj.AssemblyReference.cache
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.AssemblyInfoInputs.cache
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.AssemblyInfo.cs
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.csproj.CoreCompileInputs.cache
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.dll
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\refint\Karkulka.dll
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.pdb
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.genruntimeconfig.cache
+C:\Škola\Karkulka\Karkulka\obj\Debug\net6.0\ref\Karkulka.dll
