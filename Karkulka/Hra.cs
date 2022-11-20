@@ -120,7 +120,7 @@ namespace Karkulka
                 int hod = random.Next(1,7);
                 if(hod >= 4)
                 {
-                    text += "Vlk mlsne kouka kosiku ale nic neziskal.";
+                    text += "Vlk kouka do kosiku ale nic neziskal.";
                 }
                 else if(karkulka.vratPocetVeciVKosiku() > 0)
                 {
@@ -151,7 +151,7 @@ namespace Karkulka
                 }
                 else
                 {
-                    text += "Karkulka to nezvadla.";
+                    text += "Karkulka to nezvladla.";
                     hraBezi = false;
                 }
         }
